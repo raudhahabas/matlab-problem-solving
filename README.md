@@ -1,6 +1,6 @@
 # Problem Solving with MATLAB
 
-[![MATLAB tests](https://github.com/GITHUB_USER/matlab-problem-solving/actions/workflows/tests.yml/badge.svg)](https://github.com/GITHUB_USER/matlab-problem-solving/actions/workflows/tests.yml)
+[![MATLAB tests](https://github.com/raudhahabas/matlab-problem-solving/actions/workflows/tests.yml/badge.svg)](https://github.com/raudhahabas/matlab-problem-solving/actions/workflows/tests.yml)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2025b-orange)
 
 Three computational projects from my third-year Mathematics degree at the University of Manchester. They cover **exact arithmetic**, **ODE simulation** and **data analysis**. Each one is reproducible from a single script, and the core logic is covered by unit tests that run automatically on every push.
